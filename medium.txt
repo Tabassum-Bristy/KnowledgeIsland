@@ -1,0 +1,61 @@
+10
+Which one of the following is the ternary operator?
++
+>=
+? :
+-
+3
+Which is a user defined function?
+return
+scanf
+main
+printf
+3
+Which constant refers to PI?
+character constant
+symbolic constant
+integer constant
+floating point constant
+2
+Which of the operator can be used both as unary & binary operator ?
+/
+>=
+? :
+-
+4
+Which of the following operator is rarely used?
+Logical operator
+Relational operator
+Bitwise operator
+Assignment operator
+3
+Which one of the following is not a ANSI C language keyword?
+void
+enum
+goto
+function
+4
+Which of the following is a group statements that together perform a task?
+structure
+function
+string
+union
+2
+Which of the following is a run time error?
+{
+2/0
+Main
+missing ;
+2
+Which loop is highly used
+do while loop
+for loop
+while loop
+infinite loop
+2
+Which error is difficult to find out?
+logical error
+syntax error
+runtime error
+linker error
+3

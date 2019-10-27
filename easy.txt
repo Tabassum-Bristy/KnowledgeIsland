@@ -1,0 +1,61 @@
+10
+Which one of the following is volatile memory?
+ROM
+RAM
+CPU
+ALU
+2
+Which one is the valueless data type?
+integer
+float
+void
+character
+3
+Which escape sequence represents the line feed character?
+\n
+\t
+\a
+\v
+1
+What is the size of integer data type?
+4 byte
+12 byte
+16 byte
+32 byte
+1
+How many characters are significant as identifiers?
+26
+28
+31
+32
+3
+Which of the following has fixed meanings in C language?
+identifier
+constant
+variable
+keyword
+4
+Which of the following is used to represent the format specifier of double?
+%d
+%lld
+%f
+%c
+3
+Which is not a data type modifier?
+integer
+short integer
+singed character
+long double
+1
+Which is not a high level language?
+JAVA
+MOV
+PASCAL
+C++
+2
+Which of the following is an invalid identifier?
+_ans
+name
+address
+$tax
+4

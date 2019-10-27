@@ -1,0 +1,62 @@
+10
+how many case values are needed in the program of determination of division including default?
+5
+10
+11
+12
+4
+Which represent the Iteration statement?
+switch
+do while
+break
+nested if
+2
+Which one of the statements can be used to stop an infinite loop?
+continue
+return
+break
+goto
+3
+Which is the exit control loop?
+infinite loop
+do while loop
+for loop
+while loop
+2
+What is the size of the character array London?
+7
+5
+6
+8
+1
+Which of the following is used to store a data value?
+identifier
+keyword
+variable
+constant
+3
+Which one of the selection statement is easy to use?
+else if
+switch case
+if
+loop
+1
+Null character is used to terminate which of the followings?
+constant
+string
+array
+data type
+2
+Ternary operator works as which of the following statement
+nested if
+for loop
+if else alternative
+do while loop
+3
+What kind of error is memory limit exceeded error?
+syntax error
+runtime error
+linker error
+logical error
+2
+
